@@ -16,6 +16,4 @@ The programs cover basic to intermediate level concepts.
 - Pattern programs
 - Mathematical logic problems
 
-
-
 If you find this repository useful, please star ⭐ the repository.
