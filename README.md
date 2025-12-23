@@ -1,5 +1,4 @@
 # Logic-Building
-# Logic Building Programs 
 
 This repository contains logic building programs written in C, C++ and Java.
 It is created for practice, learning, and improving problem-solving skills.
